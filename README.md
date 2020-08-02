@@ -5,7 +5,7 @@ A/B testing is a very popular optimization method. They are aimed at improving a
 
 To learn how to use classes in python I implemented 2 methods of A / B testing:
 - Bayesian
-- Multi arm bandit
+- Multi-armed bandit
 
 ### To start
 Go to how_to_start.ipynb
